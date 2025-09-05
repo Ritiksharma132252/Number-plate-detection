@@ -1,5 +1,4 @@
 import cv2
-
 harcascade = "model/haarcascade_russian_plate_number.xml"
 
 cap = cv2.VideoCapture(0)
